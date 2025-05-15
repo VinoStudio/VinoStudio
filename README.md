@@ -41,7 +41,7 @@ class PythonBackendDeveloper:
         2023: [
             Project(
                 year=2023,
-                name: Homework for FullStack Developer course",
+                name: "Homework for FullStack Developer course",
                 description: "Food presentation Landing Page",
                 role: "Solo Developer",
                 technologies: ["HTML", "CSS", "JavaScript"],
