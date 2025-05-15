@@ -41,55 +41,55 @@ class PythonBackendDeveloper:
         2023: [
             Project(
                 year=2023,
-                name: "Homework for FullStack Developer course",
-                description: "Food presentation Landing Page",
-                role: "Solo Developer",
-                technologies: ["HTML", "CSS", "JavaScript"],
-                repo_url: "https://github.com/VinoStudio/food-landing-page"
+                name="Homework for FullStack Developer course",
+                description="Food presentation Landing Page",
+                role="Solo Developer",
+                technologies=["HTML", "CSS", "JavaScript"],
+                repo_url="https://github.com/VinoStudio/food-landing-page"
             ),
             Project(
                 year=2023,
-                name: "Blog fullstack app on Django Framework",
-                description: "DTF-like fullstack application using Django Framework and jinja templates",
-                role: "Solo Developer",
-                technologies: ["Django", "HTML", "CSS"],
-                repo_url: "https://github.com/VinoStudio/Django_Blog"
+                name="Blog fullstack app on Django Framework",
+                description="DTF-like full-stack application using Django Framework and Jinja templates",
+                role="Solo Developer",
+                technologies=["Django", "HTML", "CSS"],
+                repo_url="https://github.com/VinoStudio/Django_Blog"
             )   
         ],
         2024: [
             Project(
                 year=2024,
-                name: "Authentication Service with JWT, RBAC and FastAPI Framework",
-                description: "RBAC based monilith authentication service using FastAPI Framework",
-                role: "Solo Developer",
-                technologies: ["FastAPI", "Celery", "Redis", "PostgreSQL", "SQLAlchemy"],
-                repo_url: "https://github.com/VinoStudio/fastapi-auth-service"
+                name="Authentication Service with JWT, RBAC and FastAPI Framework",
+                description="RBAC authentication service using FastAPI Framework",
+                role="Solo Developer",
+                technologies=["FastAPI", "Celery", "Redis", "PostgreSQL", "SQLAlchemy"],
+                repo_url="https://github.com/VinoStudio/fastapi-auth-service"
             ),
             Project(
                 year=2024,
-                name: "React Food Delivery App",
-                description: "React based food delivery app",
-                role: "Solo Developer",
-                technologies: ["React", "Vite", "HTML", "CSS"],
-                repo_url: "https://github.com/VinoStudio/food_delivery_react"
+                name="React Food Delivery App",
+                description="React food delivery app",
+                role="Solo Developer",
+                technologies=["React", "Vite", "HTML", "CSS"],
+                repo_url="https://github.com/VinoStudio/food_delivery_react"
             )
         ],
         2025: [
             Project(
                 year=2025,
-                name: "User services with FastAPI Framework",
-                description: "Microservice that describles user profile, connect with Auth Service by Kafka",
-                role: "Solo Developer",
-                technologies: ["FastAPI", "PostgresQL", "SQLAlchemy", "Kafka"],
-                repo_url: "https://github.com/VinoStudio/user_service"
+                name="User services with FastAPI Framework",
+                description="Microservice that describes user profile, connects with the Auth Service by Kafka",
+                role="Solo Developer",
+                technologies=["FastAPI", "PostgresQL", "SQLAlchemy", "Kafka"],
+                repo_url="https://github.com/VinoStudio/user_service"
             ),
             Project(
                 year=2025,
-                name: "Auth Microservice with Litestar Framework",
-                description: "Microservice that implements user authentication, rbac, OAuth and connected with User Service by Kafka",
-                role: "Solo Developer",
-                technologies: ["Litestar", "PostgresQL", "SQLAlchemy", "Redis", "Celery", "Grafana", "Kafka"],
-                repo_url: "https://github.com/VinoStudio/auth_service"
+                name="Auth Microservice with Litestar Framework",
+                description="Microservice that implements user authentication, RBAC, OAuth, and is connected with User Service by Kafka",
+                role="Solo Developer",
+                technologies=["Litestar", "PostgresQL", "SQLAlchemy", "Redis", "Celery", "Grafana", "Kafka"],
+                repo_url="https://github.com/VinoStudio/auth_service"
             )
         ]
     })
